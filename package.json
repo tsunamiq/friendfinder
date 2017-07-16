@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsunamiq/friendfinder.git"
+  },
+  "author": "Jonathan N. Thinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsunamiq/friendfinder/issues"
+  },
+  "homepage": "https://github.com/tsunamiq/friendfinder#readme",
+  "description": "Friend Finder Application",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
